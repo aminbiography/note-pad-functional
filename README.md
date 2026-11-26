@@ -1,4 +1,4 @@
-# Functional Notepad – Text Editor
+# Functional Notepad – Text Editor 
 
 A simple browser-based text editor built with HTML, CSS, JavaScript, and Bootstrap. It allows users to enter text and apply basic formatting options through interactive buttons.
 
